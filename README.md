@@ -3,7 +3,7 @@
 
 
 ### Before starting:
-Create an API key via the [Binance Api]('https://www.binance.com/userCenter/createApi.html) and replace the empty strings with your keys on each script you want to run.
+Create an API key via the [Binance Api](https://www.binance.com/userCenter/createApi.html) and replace the empty strings with your keys on each script you want to run.
 ````bash
 pipenv shell
 
